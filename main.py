@@ -4,10 +4,10 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 
 # Telegram bot token
-TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+TOKEN = '6720617126:AAHVQvj0txcbEBJjDAEG-Zi_Dussmnr0_oA'
 
 # Facebook profile link
-FACEBOOK_PROFILE_LINK = 'https://www.facebook.com/your_profile_link'
+FACEBOOK_PROFILE_LINK = 'https://www.facebook.com/Im.fcuking.depressed'
 
 # Function to handle the start command
 def start(update: Update, context: CallbackContext) -> None:
